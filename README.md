@@ -7,6 +7,13 @@
 
 ---
 
+### ✨ Hello
+✨ Welcome to my profile!  
+🪄 I’m glad to see you here.  
+🔮 Currently, I’m actively learning and switching from Full-Stack development to Machine Learning and Data Science.
+
+---
+
 ### 🧙‍♂️ About Me
 
 ```spell
@@ -20,18 +27,24 @@
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://t.me/iqumorus">
-        <strong>Telegram</strong><br/>
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="60" alt="Telegram" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/igor-kaygorodtsev-8941a1331/">
-        <strong>LinkedIn</strong><br/>
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="60" alt="LinkedIn" />
-      </a>
-    </td>
+   <td align="center">
+  <a href="https://t.me/iqumorus">
+    <strong>Telegram</strong><br/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="60" alt="Telegram" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://www.linkedin.com/in/igor-kaygorodtsev-8941a1331/">
+    <strong>LinkedIn</strong><br/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="60" alt="LinkedIn" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://www.kaggle.com/iqumorus">
+    <!-- <strong>Kaggle</strong><br/> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/640px-Kaggle_logo.png" height="30" alt="Kaggle" />
+  </a>
+</td>
   </tr>
 </table>
 
