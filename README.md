@@ -1,29 +1,23 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iqumorus/iqumorus/main/images/gitHubPreviewGif.gif" />
+  <img src="https://media.tenor.com/CUV27VhbOQEAAAAj/hello-smiley.gif" />
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=00FF00&center=true&vCenter=true&lines=🧙‍♂️+Shadow+Wizard+Money+Gang;✨+We+Love+Casting+Spells" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=00FF00&center=true&vCenter=true&lines=Shadow+Wizard+Money+Gang;+We+Love+Casting+Spells" />
 </div>
 
 ---
 
-### ✨ Hello
-✨ Welcome to my profile!  
-🪄 I’m glad to see you here.  
-🔮 Currently, I’m actively learning and switching from Full-Stack development to Machine Learning and Data Science.
 
----
-
-### 🧙‍♂️ About Me
+### About Me
 
 ```spell
-🪄 Full-Stack (A jack of all trades and a master of many)
+🪄 Full-Stack
 💻 Languages: JavaScript, TypeScript, C#, Python (soon)
-⚔️ Backend Sorcery: Node.js, Express
-🏰 Frontend Glyphs: React, Vite, Three.js, GSAP
+⚔️ Backend (main): Node.js, Express
+🏰 Frontend: React, Vite, Three.js, GSAP
 ```
 
-### 🔮 Magic Portals
+### Portals
 
 <table>
   <tr>
@@ -50,18 +44,6 @@
 
 ---
 
-### ✨ GitHub Spells
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqumorus&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqumorus&theme=tokyonight" alt="GitHub Streaks"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iqumorus&theme=tokyonight" alt="Activity Graph"/>
-</p>
-
----
-
 ### 🛠️ Tech Scroll
 
 <p align="center">
@@ -75,7 +57,7 @@
 
 ---
 
-### 🧪 Spell Demo
+### Portfolio Screens
 
 <div align="center">
   <img src="" alt="Soon..." width="80%" />
