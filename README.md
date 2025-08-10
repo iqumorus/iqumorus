@@ -59,9 +59,9 @@
 
 ### Portfolio Screens
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="video/bidapp.gif" alt="Soon..." width="50%" />
-    <img src="video/roomstake.gif" alt="Soon..." width="50%" />
+<div display="center">
+    <img src="video/bidapp.gif" width="50%" />
+    <img src="video/roomstake.gif" width="50%" />
 </div>
 
 ---
